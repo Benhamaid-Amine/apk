@@ -11,7 +11,7 @@ export default function Home() {
       >
         📥 Télécharger l'APK
       </a>
-      <h1>hello world</h1>
+      <h1>hello world !!</h1>
     </div>
   );
 }
